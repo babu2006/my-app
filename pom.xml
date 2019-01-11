@@ -59,12 +59,5 @@
             <version>2.19</version>
         </plugin>
     </plugins>
-</build>
-<properties>
-          <sonar.host.url>http://172.16.121.128:9000</sonar.host.url>
-          <sonar.projectName>def</sonar.projectName>
-          <sonar.login>admin</sonar.login>
-          <sonar.password>admin</sonar.password>
-</properties>
-	
+</build>	
 </project>
